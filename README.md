@@ -68,12 +68,12 @@ Run the Jupyter notebooks:
 jupyter notebook
 
 ### Dependencies
-Python 3.6
-NumPy
-Pandas
-Scikit-learn
-Matplotlib
-Seaborn
+* Python 3.6
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Seaborn
 
 ### Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
